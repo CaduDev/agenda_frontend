@@ -1,4 +1,4 @@
-# Backend em node do sistema de contatos: AGENDA
+# Frontend in react.js of the contacts system: AGENDA
 
 ### Steps to run the application
 
